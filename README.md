@@ -4,7 +4,7 @@
 1. For the Visualisation I have used **POWER BI**.
 
  
- ![Dashboard]()
+ ![Dashboard](https://github.com/agooddevil1/E-COMMERCE-DASHBOARD/blob/main/E-Commerce%20Sales%20.png)
 
 ## Language and Tools
 
